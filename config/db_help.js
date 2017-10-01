@@ -1,6 +1,6 @@
-const DB_HOST = "mysql://mysql:3306/";
-const DB_USER = "bktravel";
-const DB_PASS = "123456";
+const DB_HOST = "localhost";
+const DB_USER = "root";
+const DB_PASS = "";
 const DB_NAME = "test";
 
 var HOST = 'http://192.168.1.8:3000';
