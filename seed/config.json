@@ -1,0 +1,37 @@
+-- Phan gui cho CLIENT
+
+{
+    "userId": "1",
+    "createAt": "20/2/2017 12:30 45\n",
+    "updateAt": "20/02/0217\n",
+    "content" : "chia se anh",
+<<<<<<< HEAD
+    "images" :
+=======
+    "images" :
+>>>>>>> 0b99aae729c609dad4312ee00e11d5e121b30fdd
+    {
+    	"size" : 3,
+    	"Id" : [
+	    	"1",
+	    	"2",
+	    	"3"
+    	]
+    },
+<<<<<<< HEAD
+    "province": {
+    	"name" : "Ho Chi Minh"
+    }
+
+}
+=======
+    "province":
+
+}
+{
+  "userId" : 1,
+  "statusId"  :1,
+  "content" : "Hello world",
+  "createAt" : "ddddd",
+  "updateAt" : "ddddd"
+}
