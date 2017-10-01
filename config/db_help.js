@@ -3,7 +3,7 @@
 // const DB_PASS = "123456";
 // const DB_NAME = "test";
 
-const DB_HOST = "mysql://mysql:3306/";
+const DB_HOST = "10.130.28.230";
 const DB_USER = "bktravel";
 const DB_PASS = "123456";
 const DB_NAME = "test";
