@@ -3,12 +3,15 @@
 // const DB_PASS = "123456";
 // const DB_NAME = "test";
 
-const DB_HOST = "mysql.bk-travel.svc";
+const DB_HOST = "mysql://mysql:3306/";
 const DB_USER = "bktravel";
 const DB_PASS = "123456";
-//
 const DB_NAME = "test";
 
+// Username: bktravel
+// Password: 123456
+// Database Name: test
+// Connection URL: mysql://mysql:3306/
 
 var HOST = 'http://192.168.1.8:3000';
 
